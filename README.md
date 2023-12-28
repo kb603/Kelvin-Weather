@@ -1,3 +1,3 @@
 # Kelvin-Weather
 
-This is a simple JavaScript program that converts temperature from Kelvin to Celsius, Fahrenheit and Newton.
+This is a simple JavaScript program that converts Kelvin to Celsius, then to Fahrenheit, and human age to dog age.
